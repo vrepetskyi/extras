@@ -4,11 +4,16 @@ This year we've decided to compete in "Less waste" category.
 
 ## First concept
 
-A concept of an interactive educational app created by on the way to Kraków:
+Created by me on the way to Kraków.
+
+An interactive educational app about waste segregation. Its features should've included:
+- basic guides on the topic
+- advanced search on waste types (sometimes it is really difficult to decide which bin to throw it in)
+- AR and Computer Vision usage for waste classification based on a video stream
 
 ![image](https://user-images.githubusercontent.com/31629500/202925920-b1fbe932-f106-49c4-a6db-227abdc9de24.png)
 
-## Final result
+## The submission
 
 A fullstack Tinder-like application for peole who want to:
 - get rid of their old staff easily
