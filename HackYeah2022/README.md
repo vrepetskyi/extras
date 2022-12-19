@@ -1,4 +1,4 @@
-# ***Hack Yeah 2022*** { [source](https://github.com/vrepetskyi/garbage-collector); [deploy](http://garbage-collector.akai.org.pl/) }
+# [***Hack Yeah 2022***](https://github.com/vrepetskyi/garbage-collector)
 
 This year we've decided to compete in "Less waste" category.
 
