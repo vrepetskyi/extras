@@ -1,4 +1,4 @@
-# Overview
+# Extras
 
 You can find additional information about my projects / acitvities here.
 
